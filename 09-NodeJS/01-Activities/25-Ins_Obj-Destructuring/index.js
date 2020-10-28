@@ -20,8 +20,8 @@ console.log(aryaParents); // prints `["Eddard Stark", "Catelyn Stark"]`
 
 const { name, parents } = arya;
 
-console.log(name); // prints `"Jaime Lannister"`
-console.log(parents); // prints `["Tywin Lannister", "Joanna Lannister"]`
+console.log(name); // prints `"Arya Stark"``
+console.log(parents); // prints `["Eddard Stark", "Catelyn Stark"]`
 
 // We can also rename our destructured properties like so:
 
