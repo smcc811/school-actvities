@@ -8,7 +8,7 @@
 
 * Must be backed by a MySQL database with a Sequelize ORM
 
-* Must utilize both GET and POST routes for retrieving and adding new data
+* Must utilize CRUD routes for at least one model
 
 * Must be deployed using Heroku (with data)
 
