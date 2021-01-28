@@ -8,7 +8,7 @@
 
 * Must be backed by a MySQL or MongoDB database with a Sequelize or Mongoose ORM
 
-* Must have both GET and POST routes for retrieving and adding new data
+* Must have CRUD routes for at least one model.
 
 * Must deploy this application using Heroku with data. Follow our guide on [deploying MERN applications to Heroku](../04-Important/MERNHerokuDeploy.md) to do so.
 
@@ -16,7 +16,7 @@
 
 * Must allow for or involve the authentication of users in some way
 
-* Must have a polished front end/UI
+* Must have a polished front end/UI, not Bootstrap.
 
 * Must have a folder structure that meets the MVC paradigm
 
